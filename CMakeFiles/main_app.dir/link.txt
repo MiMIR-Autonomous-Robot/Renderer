@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/main_app.dir/src/main.cpp.o -o main_app  -lSDL2 

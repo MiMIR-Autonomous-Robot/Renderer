@@ -1,0 +1,3 @@
+/home/wsacewicz/Documents/cpp/vscode_cpp_sdl2_template-master/build/CMakeFiles/rebuild_cache.dir
+/home/wsacewicz/Documents/cpp/vscode_cpp_sdl2_template-master/build/CMakeFiles/edit_cache.dir
+/home/wsacewicz/Documents/cpp/vscode_cpp_sdl2_template-master/build/CMakeFiles/main_app.dir
