@@ -1,0 +1,1 @@
+/bin/x86_64-linux-gnu-g++-10 -rdynamic CMakeFiles/main_app.dir/src/main.cpp.o -o main_app  -lSDL2 
